@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f5d24ae6-7d9e-49ec-9cab-eeaba077e227",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "《魔鬼战争》图标素材-追求-desc-框架(quest-de_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "b635e3ff-ef5b-4512-8468-43ef499a7b8e",
+      "rawTextureUuid": "f5d24ae6-7d9e-49ec-9cab-eeaba077e227",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 300,
+      "height": 400,
+      "rawWidth": 300,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

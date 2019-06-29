@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f8c9c3ba-76f1-43e2-bdc0-8d1a99d5c317",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Android魔兽塔防完整源码-按钮背景(buttonBac_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "daba6533-af04-4efd-b9cb-a8c5fc0d90ac",
+      "rawTextureUuid": "f8c9c3ba-76f1-43e2-bdc0-8d1a99d5c317",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 207,
+      "height": 95,
+      "rawWidth": 207,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

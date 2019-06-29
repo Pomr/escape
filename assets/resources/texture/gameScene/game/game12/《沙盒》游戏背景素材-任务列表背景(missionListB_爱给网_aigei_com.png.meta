@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "51d678bf-ac40-490a-b1b3-91e0917ed7c5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "《沙盒》游戏背景素材-任务列表背景(missionListB_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "51454130-a5cb-42ee-be01-2ebff95378f5",
+      "rawTextureUuid": "51d678bf-ac40-490a-b1b3-91e0917ed7c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 447,
+      "height": 234,
+      "rawWidth": 447,
+      "rawHeight": 237,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

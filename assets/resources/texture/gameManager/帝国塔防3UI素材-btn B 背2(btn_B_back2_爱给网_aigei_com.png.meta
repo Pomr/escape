@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5802dcc5-6015-4cd1-8af2-998ced1cc8f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "帝国塔防3UI素材-btn B 背2(btn_B_back2_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "5a9d25f4-4dea-4a24-b84d-f8ce080fe3ad",
+      "rawTextureUuid": "5802dcc5-6015-4cd1-8af2-998ced1cc8f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 17,
+      "trimY": 18,
+      "width": 46,
+      "height": 47,
+      "rawWidth": 80,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

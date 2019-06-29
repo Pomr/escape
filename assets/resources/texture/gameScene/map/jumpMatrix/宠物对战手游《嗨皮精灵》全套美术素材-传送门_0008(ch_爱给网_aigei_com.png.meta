@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f319c62a-63f0-4126-b57b-540f56d6e8e9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0008(ch_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "cac4acae-6c5c-47ad-8ae8-89785380bd72",
+      "rawTextureUuid": "f319c62a-63f0-4126-b57b-540f56d6e8e9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 5,
+      "offsetY": -5,
+      "trimX": 19,
+      "trimY": 21,
+      "width": 192,
+      "height": 188,
+      "rawWidth": 220,
+      "rawHeight": 220,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

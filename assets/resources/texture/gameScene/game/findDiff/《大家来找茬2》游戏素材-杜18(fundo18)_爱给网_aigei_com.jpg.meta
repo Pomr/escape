@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "eb10cdd3-3def-4f2d-acc6-cc861d42cae6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "《大家来找茬2》游戏素材-杜18(fundo18)_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "72988675-5b73-4c66-ae2d-ce777335d0bb",
+      "rawTextureUuid": "eb10cdd3-3def-4f2d-acc6-cc861d42cae6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 478,
+      "height": 638,
+      "rawWidth": 478,
+      "rawHeight": 638,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

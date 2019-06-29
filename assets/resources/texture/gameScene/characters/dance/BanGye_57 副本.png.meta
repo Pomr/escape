@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8d4212b6-4d97-4e5c-8b43-c4746f636a5a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "BanGye_57 副本": {
+      "ver": "1.0.3",
+      "uuid": "45572cc4-8a81-474f-8bbb-f360cd545d00",
+      "rawTextureUuid": "8d4212b6-4d97-4e5c-8b43-c4746f636a5a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 23,
+      "trimY": 27,
+      "width": 54,
+      "height": 58,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

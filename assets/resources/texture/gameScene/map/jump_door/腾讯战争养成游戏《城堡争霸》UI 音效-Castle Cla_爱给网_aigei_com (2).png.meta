@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "cba2a05b-058b-44f3-89ea-029183ffd07e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "腾讯战争养成游戏《城堡争霸》UI 音效-Castle Cla_爱给网_aigei_com (2)": {
+      "ver": "1.0.3",
+      "uuid": "1498118e-01f3-4a3d-be7e-375492030398",
+      "rawTextureUuid": "cba2a05b-058b-44f3-89ea-029183ffd07e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 352,
+      "height": 515,
+      "rawWidth": 354,
+      "rawHeight": 519,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "12250086-ec6e-409d-a075-7e5a70488bd9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "梦幻西游全套UI素材-100-2_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "7a3f7540-36b1-4372-8b4f-379ef9af6008",
+      "rawTextureUuid": "12250086-ec6e-409d-a075-7e5a70488bd9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 19,
+      "height": 19,
+      "rawWidth": 19,
+      "rawHeight": 19,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

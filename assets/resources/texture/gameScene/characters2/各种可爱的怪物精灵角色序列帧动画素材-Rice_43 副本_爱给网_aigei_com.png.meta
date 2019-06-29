@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4793a70e-6c78-4944-a73b-d29964d6f362",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "各种可爱的怪物精灵角色序列帧动画素材-Rice_43 副本_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "aa334203-1bc4-4139-8542-bb228cf16770",
+      "rawTextureUuid": "4793a70e-6c78-4944-a73b-d29964d6f362",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 22,
+      "trimY": 27,
+      "width": 56,
+      "height": 58,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

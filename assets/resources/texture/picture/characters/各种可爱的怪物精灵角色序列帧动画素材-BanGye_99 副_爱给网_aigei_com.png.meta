@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "2de1a494-5672-4914-8b70-cc9d25be5cd2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "各种可爱的怪物精灵角色序列帧动画素材-BanGye_99 副_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "d7df532a-9bcc-4499-86c6-c1c70b334cd3",
+      "rawTextureUuid": "2de1a494-5672-4914-8b70-cc9d25be5cd2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -4.5,
+      "trimX": 22,
+      "trimY": 24,
+      "width": 55,
+      "height": 61,
+      "rawWidth": 100,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "8054bb58-9a7d-48c4-a7b6-6965839c2d4e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "《我是掼蛋王》游戏素材-背包网格(backpack_grid_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "5795b4c0-345f-48cf-b80d-16fb4256fd33",
+      "rawTextureUuid": "8054bb58-9a7d-48c4-a7b6-6965839c2d4e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 136,
+      "height": 136,
+      "rawWidth": 136,
+      "rawHeight": 136,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

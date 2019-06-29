@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4a9b6691-f620-474d-bc91-9cdeaa4513f7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "滚吧水果_v2.0-声音(soundOff)_爱给网_aigei_com": {
+      "ver": "1.0.3",
+      "uuid": "fd3e2e9b-9dd9-4b39-9247-db7aaf6e4b36",
+      "rawTextureUuid": "4a9b6691-f620-474d-bc91-9cdeaa4513f7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 105,
+      "height": 107,
+      "rawWidth": 105,
+      "rawHeight": 107,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

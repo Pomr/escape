@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5e3593cd-a752-4e3e-81e8-d64fd6bb91fb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "android版俄罗斯方块源码-android版本的俄罗斯方_爱给网_aigei_com (1)": {
+      "ver": "1.0.3",
+      "uuid": "a4d15334-dc50-4858-a3ab-81ef6b644cd2",
+      "rawTextureUuid": "5e3593cd-a752-4e3e-81e8-d64fd6bb91fb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 20,
+      "height": 20,
+      "rawWidth": 20,
+      "rawHeight": 20,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

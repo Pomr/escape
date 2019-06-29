@@ -1,0 +1,423 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "di",
+      "texture": "0fPGAwX1xLu5PH0cNa9pv7",
+      "rect": [
+        0,
+        0,
+        553,
+        44
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        553,
+        44
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "bian",
+      "texture": "dcF6MGx+9Kbqo46FAjBX4s",
+      "rect": [
+        0,
+        0,
+        14,
+        52
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        14,
+        52
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "tip",
+    "_duration": 0.6666666666666666,
+    "speed": 0.5,
+    "curveData": {
+      "paths": {
+        "di": {
+          "props": {
+            "scale": [
+              {
+                "frame": 0,
+                "value": {
+                  "__type__": "cc.Vec2",
+                  "y": 1
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__type__": "cc.Vec2",
+                  "x": 1,
+                  "y": 1
+                }
+              }
+            ],
+            "width": [
+              {
+                "frame": 0.3333333333333333,
+                "value": 500
+              },
+              {
+                "frame": 0.5,
+                "value": 450
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 500
+              }
+            ]
+          }
+        },
+        "left": {
+          "props": {
+            "x": [
+              {
+                "frame": 0,
+                "value": 640
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 393
+              },
+              {
+                "frame": 0.5,
+                "value": 420
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 393
+              }
+            ]
+          }
+        },
+        "right": {
+          "props": {
+            "x": [
+              {
+                "frame": 0,
+                "value": 640
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": 887
+              },
+              {
+                "frame": 0.5,
+                "value": 861
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": 887
+              }
+            ]
+          }
+        },
+        "word": {
+          "props": {
+            "scale": [
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__type__": "cc.Vec2",
+                  "y": 1
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__type__": "cc.Vec2",
+                  "x": 1,
+                  "y": 1
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "tip",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "tip",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        }
+      ],
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_defaultClip": {
+            "__uuid__": "6d0O85KOBNXb7GNoG6cnCe"
+          },
+          "_clips": [
+            {
+              "__uuid__": "6d0O85KOBNXb7GNoG6cnCe"
+            }
+          ]
+        },
+        {
+          "__type__": "c2203IAwF1NqKx2GHCMDzPk",
+          "node": {
+            "__id__": 1
+          },
+          "word": {
+            "__id__": 6
+          }
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 1
+          },
+          "_alignFlags": 18
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "769rjeS7xD1b8jO7z+FH4e"
+        },
+        "fileId": "a4w3PeXOJCSbsCxe2FV5ab"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 1280,
+        "height": 720
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 640,
+        "y": 360
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "di",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "48xNLKo81Hh64cG4oDsvLx"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "769rjeS7xD1b8jO7z+FH4e"
+        },
+        "fileId": "82i77ke9lIX7JCjbK4n2pQ"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 500,
+        "height": 44
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "left",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "5bPE3wxRFMlLtjDhcvh1oq"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "769rjeS7xD1b8jO7z+FH4e"
+        },
+        "fileId": "8fz28vEWJAJZ43hat4473r"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 14,
+        "height": 52
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "right",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "5bPE3wxRFMlLtjDhcvh1oq"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "769rjeS7xD1b8jO7z+FH4e"
+        },
+        "fileId": "27Gko9jZBNoreiDLzp/ZwL"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 14,
+        "height": 52
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": -1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "word",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__id__": 6
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "769rjeS7xD1b8jO7z+FH4e"
+        },
+        "fileId": "e10/n4/zZI/q1dh/TZ2WK1"
+      },
+      "_color": {
+        "__type__": "cc.Color",
+        "r": 254,
+        "g": 2,
+        "b": 2
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 240,
+        "height": 40
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Label",
+      "node": {
+        "__id__": 5
+      },
+      "_srcBlendFactor": 1,
+      "_useOriginalSize": false,
+      "_string": "钥匙选择错误",
+      "_N$string": "钥匙选择错误",
+      "_N$horizontalAlign": 1,
+      "_N$verticalAlign": 1
+    }
+  ]
+]

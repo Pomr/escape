@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Energy_Filling",
+    "texture": "ebm517uUpJTKcLlmmcs2CA",
+    "rect": [
+      14,
+      14,
+      50,
+      51
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      78,
+      78
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

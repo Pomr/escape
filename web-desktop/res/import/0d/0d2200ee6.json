@@ -1,0 +1,431 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fence",
+      "texture": "14n54uO0FCfrwiyHpDgSmt",
+      "rect": [
+        0,
+        7,
+        75,
+        68
+      ],
+      "offset": [
+        0,
+        -3.5
+      ],
+      "originalSize": [
+        75,
+        75
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "fence",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "fence",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__id__": 4
+        },
+        {
+          "__id__": 5
+        }
+      ],
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 1
+          },
+          "_alignFlags": 44,
+          "_left": 715,
+          "_right": 305,
+          "_top": 0.6854166666666667,
+          "_bottom": 161.5,
+          "_verticalCenter": -0.25,
+          "_horizontalCenter": -0.03046875,
+          "_isAbsTop": false,
+          "_isAbsHorizontalCenter": false,
+          "_isAbsVerticalCenter": false,
+          "_originalWidth": 300,
+          "_originalHeight": 75
+        },
+        {
+          "__type__": "cc.Mask",
+          "node": {
+            "__id__": 1
+          }
+        },
+        {
+          "__type__": "cc.RigidBody",
+          "node": {
+            "__id__": 1
+          },
+          "_type": 0
+        },
+        {
+          "__type__": "cc.PhysicsBoxCollider",
+          "node": {
+            "__id__": 1
+          },
+          "_size": {
+            "__type__": "cc.Size",
+            "width": 300,
+            "height": 75
+          }
+        },
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_defaultClip": {
+            "__uuid__": "8clT9Zj91HXrQ75PNiuC7d"
+          },
+          "_clips": [
+            {
+              "__uuid__": "8clT9Zj91HXrQ75PNiuC7d"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "63OL2Crb1IVIhZwFO+sWRe"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 260,
+        "height": 75
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 205,
+        "y": -161
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "_rotationX": -90,
+      "_rotationY": -90,
+      "_quat": {
+        "__type__": "cc.Quat",
+        "z": 0.7071067811865475,
+        "w": 0.7071067811865476
+      },
+      "groupIndex": 6
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "fence1",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 3,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "75tdUBqnpLcZ1hRWpngLyE"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "16hszIDRxJt5Xn5fQthCPp"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 75,
+        "height": 68
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 92.5
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "fence2",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 3,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "75tdUBqnpLcZ1hRWpngLyE"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "a57WzWV9pBJ7FlbhNFMkGK"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 75,
+        "height": 68
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 17.5
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "fence3",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 3,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 4
+          },
+          "_spriteFrame": {
+            "__uuid__": "75tdUBqnpLcZ1hRWpngLyE"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "b3ZYkvKWtNNpDUuDdK2nP5"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 75,
+        "height": 68
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -57.5
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "fence4",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 3,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 5
+          },
+          "_spriteFrame": {
+            "__uuid__": "75tdUBqnpLcZ1hRWpngLyE"
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "20KbIBtwFIcouQ2W/gp6hC"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 75,
+        "height": 68
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -132.5
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "fence",
+    "_duration": 1,
+    "speed": 0.5,
+    "curveData": {
+      "paths": {
+        "fence4": {
+          "props": {
+            "x": [
+              {
+                "frame": 0,
+                "value": -113
+              },
+              {
+                "frame": 0.25,
+                "value": -38
+              }
+            ],
+            "active": [
+              {
+                "frame": 0,
+                "value": true
+              },
+              {
+                "frame": 0.25,
+                "value": false
+              }
+            ]
+          }
+        },
+        "fence3": {
+          "props": {
+            "x": [
+              {
+                "frame": 0.25,
+                "value": -38
+              },
+              {
+                "frame": 0.5,
+                "value": 37
+              }
+            ],
+            "active": [
+              {
+                "frame": 0.25,
+                "value": true
+              },
+              {
+                "frame": 0.5,
+                "value": false
+              }
+            ]
+          }
+        },
+        "fence2": {
+          "props": {
+            "x": [
+              {
+                "frame": 0.5,
+                "value": 37
+              },
+              {
+                "frame": 0.75,
+                "value": 112
+              }
+            ],
+            "active": [
+              {
+                "frame": 0.5,
+                "value": true
+              },
+              {
+                "frame": 0.75,
+                "value": false
+              }
+            ]
+          }
+        },
+        "fence1": {
+          "props": {
+            "x": [
+              {
+                "frame": 0.75,
+                "value": 112
+              },
+              {
+                "frame": 1,
+                "value": 187
+              }
+            ],
+            "active": [
+              {
+                "frame": 0.75,
+                "value": true
+              },
+              {
+                "frame": 1,
+                "value": false
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+]

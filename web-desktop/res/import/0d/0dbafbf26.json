@@ -1,0 +1,623 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-7_爱给网_aigei_com",
+      "texture": "82FMMLqwhP37P60dGeRorN",
+      "rect": [
+        0,
+        0,
+        60,
+        60
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        60,
+        60
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-5_爱给网_aigei_com",
+      "texture": "20l13MyX9BXK4LBqJv/ewo",
+      "rect": [
+        0,
+        0,
+        48,
+        56
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        48,
+        56
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-4_爱给网_aigei_com",
+      "texture": "abZikC8E1HcoPWI5bRuE8j",
+      "rect": [
+        0,
+        0,
+        45,
+        46
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        45,
+        46
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-14_爱给网_aigei_com",
+      "texture": "c9x3fZYStJs4SkP9p2VZSa",
+      "rect": [
+        0,
+        0,
+        99,
+        90
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        99,
+        90
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-3_爱给网_aigei_com",
+      "texture": "49lSr1jrJPtKOSXAdH4Z1R",
+      "rect": [
+        0,
+        0,
+        30,
+        34
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        30,
+        34
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-1_爱给网_aigei_com",
+      "texture": "5bY1f4IoNMlLvl+5C705rE",
+      "rect": [
+        0,
+        0,
+        5,
+        4
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        5,
+        4
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-10_爱给网_aigei_com",
+      "texture": "aes8iePxBPwopi46RH8QSt",
+      "rect": [
+        0,
+        0,
+        77,
+        75
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        77,
+        75
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-11_爱给网_aigei_com",
+      "texture": "d7WtuivvBOpamoVUC+SB/S",
+      "rect": [
+        0,
+        0,
+        84,
+        77
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        84,
+        77
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-2_爱给网_aigei_com",
+      "texture": "12JQCG7G5AnaB1flpwSIvZ",
+      "rect": [
+        0,
+        0,
+        19,
+        19
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        19,
+        19
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-18_爱给网_aigei_com",
+      "texture": "7dLpcuEI1ERZIkV/WbmwYJ",
+      "rect": [
+        0,
+        0,
+        112,
+        102
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        112,
+        102
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-6_爱给网_aigei_com",
+      "texture": "eeza5aifVL65UIQ2+ungd2",
+      "rect": [
+        0,
+        0,
+        55,
+        59
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        55,
+        59
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-8_爱给网_aigei_com",
+      "texture": "47bUegDHVAU4JTGmsaDD2R",
+      "rect": [
+        0,
+        0,
+        66,
+        66
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        66,
+        66
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-13_爱给网_aigei_com",
+      "texture": "1ekyPZH7pCzaxaIISMYnWY",
+      "rect": [
+        0,
+        0,
+        95,
+        86
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        95,
+        86
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-19_爱给网_aigei_com",
+      "texture": "1b3SDcx6BOpaL9tAILReyn",
+      "rect": [
+        0,
+        0,
+        115,
+        116
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        115,
+        116
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "fireworks",
+    "_duration": 0.3,
+    "speed": 0.5,
+    "wrapMode": "2",
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "60pZqkhCpAGYQdQ/NTHYi0"
+              }
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": {
+                "__uuid__": "7aP3VANrFDcotPN575r2AI"
+              }
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": {
+                "__uuid__": "4dcwOJsz5Ni6aIlTCRgIrs"
+              }
+            },
+            {
+              "frame": 0.05,
+              "value": {
+                "__uuid__": "3b1VYSu89IJ6EwcCIr179m"
+              }
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": {
+                "__uuid__": "3a3SyA7DtJa7vzLlaGZHKP"
+              }
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__uuid__": "86yBLggRtL2K13OHElZGfL"
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__uuid__": "15RfA2YkBLm4rltZjuMuaW"
+              }
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": {
+                "__uuid__": "b4cieg9YpKL5w6MPovHoU0"
+              }
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__uuid__": "e8fvR/XwhJyJifKRD07Aa7"
+              }
+            },
+            {
+              "frame": 0.15,
+              "value": {
+                "__uuid__": "6cSaRODyhFN4D/qwET0bgV"
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__uuid__": "6dHRXl7TJAUq8v1TbzjQnx"
+              }
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": {
+                "__uuid__": "f8OYjAkLhJfLYH4GtrdZdX"
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__uuid__": "c64wktFQ5DUrgZN1nO3dno"
+              }
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": {
+                "__uuid__": "49Af06nh9HFprmpoAHzJSm"
+              }
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": {
+                "__uuid__": "f1IVUYbc5HebZgt4WimSO1"
+              }
+            },
+            {
+              "frame": 0.25,
+              "value": {
+                "__uuid__": "efvnyc0sVC0L4KFZi2Syk/"
+              }
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": {
+                "__uuid__": "86ZZZK2epPOqh00rWLecEV"
+              }
+            },
+            {
+              "frame": 0.2833333333333333,
+              "value": {
+                "__uuid__": "cbclz2R6BAyq7WRA6obfST"
+              }
+            }
+          ]
+        }
+      },
+      "props": {
+        "scale": [
+          {
+            "frame": 0,
+            "value": {
+              "__type__": "cc.Vec2",
+              "x": 1,
+              "y": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-9_爱给网_aigei_com",
+      "texture": "6fvOpx9tBNCqLmNDznAlGO",
+      "rect": [
+        0,
+        0,
+        72,
+        72
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        72,
+        72
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-17_爱给网_aigei_com",
+      "texture": "1eWSR9QPVHhIodYtPUZgYG",
+      "rect": [
+        0,
+        0,
+        109,
+        104
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        109,
+        104
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-15_爱给网_aigei_com",
+      "texture": "14ZsVQrRtK8qeJYXjT0iIX",
+      "rect": [
+        0,
+        0,
+        102,
+        94
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        102,
+        94
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "梦幻西游全套UI素材-100-12_爱给网_aigei_com",
+      "texture": "ef0IXim31H26FLSU/uKgK5",
+      "rect": [
+        0,
+        0,
+        90,
+        85
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        90,
+        85
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

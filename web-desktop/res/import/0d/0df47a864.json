@@ -1,0 +1,286 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BanGye_71 副本",
+      "texture": "738HWGfEpO2JKQRsseZmEZ",
+      "rect": [
+        22,
+        28,
+        54,
+        57
+      ],
+      "offset": [
+        -1,
+        -6.5
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BanGye_72 副本",
+      "texture": "3eauusQf1Bi7+G3uBKCmWa",
+      "rect": [
+        22,
+        23,
+        54,
+        62
+      ],
+      "offset": [
+        -1,
+        -4
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "dance",
+    "_duration": 0.15,
+    "speed": 0.5,
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "abk7M7LwNKw4DBq/BgGq50"
+              }
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": {
+                "__uuid__": "bbcm/KmKpNSbTZXF8334gA"
+              }
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": {
+                "__uuid__": "45VyzEioFHT4u782DNVF0A"
+              }
+            },
+            {
+              "frame": 0.05,
+              "value": {
+                "__uuid__": "a8aHi9EXVBaIr8mD/4hTtR"
+              }
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": {
+                "__uuid__": "ea9NeqMEJC0I+j4hybLwkF"
+              }
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__uuid__": "cfTlnMB5lIeJO+SYbIzPIO"
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__uuid__": "0b99JjM2pCUKHGgB6mH2/D"
+              }
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": {
+                "__uuid__": "1d+tc0Fg9E76FslsDGidpJ"
+              }
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__uuid__": "abk7M7LwNKw4DBq/BgGq50"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BanGye_57 副本",
+      "texture": "8dQhK2TZdOXItDxHRvY2pa",
+      "rect": [
+        23,
+        27,
+        54,
+        58
+      ],
+      "offset": [
+        0,
+        -6
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BanGye_58 副本",
+      "texture": "2alcuWOchFd6hknlDBv7Sp",
+      "rect": [
+        22,
+        27,
+        55,
+        58
+      ],
+      "offset": [
+        -0.5,
+        -6
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BanGye_55 副本",
+      "texture": "d0saRKrEBJ/LifKW7PXV9U",
+      "rect": [
+        23,
+        27,
+        53,
+        58
+      ],
+      "offset": [
+        -0.5,
+        -6
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BanGye_56 副本",
+      "texture": "97YWENYMFL06y3cA0BLtal",
+      "rect": [
+        22,
+        27,
+        54,
+        57
+      ],
+      "offset": [
+        -1,
+        -5.5
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BanGye_70 副本",
+      "texture": "80O0lXAMRLdassXrKrvQDy",
+      "rect": [
+        23,
+        23,
+        53,
+        62
+      ],
+      "offset": [
+        -0.5,
+        -4
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "BanGye_59 副本",
+      "texture": "337Y/+ov9McqjvPlfIBloo",
+      "rect": [
+        22,
+        27,
+        54,
+        58
+      ],
+      "offset": [
+        -1,
+        -6
+      ],
+      "originalSize": [
+        100,
+        100
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

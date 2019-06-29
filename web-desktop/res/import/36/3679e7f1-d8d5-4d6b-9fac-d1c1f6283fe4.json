@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "各种可爱的怪物精灵角色序列帧动画素材-Rice_99 副本_爱给网_aigei_com",
+    "texture": "33M6pZlDxChJ7iMRRWPEEP",
+    "rect": [
+      21,
+      28,
+      56,
+      57
+    ],
+    "offset": [
+      -1,
+      -6.5
+    ],
+    "originalSize": [
+      100,
+      100
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,485 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0012(ch_爱给网_aigei_com",
+      "texture": "c0TwSKBxlPBLzyOIaIwDum",
+      "rect": [
+        8,
+        15,
+        199,
+        204
+      ],
+      "offset": [
+        -2.5,
+        -7
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "jumpMatrix",
+    "_duration": 0.25,
+    "speed": 0.4,
+    "wrapMode": "2",
+    "curveData": {
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "ddPkOCgmpE1YR5jTcZ+6BM"
+              }
+            },
+            {
+              "frame": 0.016666666666666666,
+              "value": {
+                "__uuid__": "44GhSsWxNDn4rpZpXIv2ab"
+              }
+            },
+            {
+              "frame": 0.03333333333333333,
+              "value": {
+                "__uuid__": "b5OKsX4TVLyoFpn4HMCFy6"
+              }
+            },
+            {
+              "frame": 0.05,
+              "value": {
+                "__uuid__": "e76HHH9jRAkLf3ucAkhatq"
+              }
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": {
+                "__uuid__": "d2HL3oALtAc6eAvpd6nTKE"
+              }
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__uuid__": "b5hTY3fc9ARYClUIns1qD9"
+              }
+            },
+            {
+              "frame": 0.1,
+              "value": {
+                "__uuid__": "cfYfvg5eVN0rKldse0lIpZ"
+              }
+            },
+            {
+              "frame": 0.11666666666666667,
+              "value": {
+                "__uuid__": "c7aA9FxVVGJLHkdGUmCPfx"
+              }
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": {
+                "__uuid__": "7erGEKhytHXaDY+bsK7sqD"
+              }
+            },
+            {
+              "frame": 0.15,
+              "value": {
+                "__uuid__": "caxKyubFxHrYroiXhTgL1y"
+              }
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__uuid__": "8bBa6D0Q1ISaKErbRBnCKo"
+              }
+            },
+            {
+              "frame": 0.18333333333333332,
+              "value": {
+                "__uuid__": "a8J759kB9Fz5IVO4x8+WKM"
+              }
+            },
+            {
+              "frame": 0.2,
+              "value": {
+                "__uuid__": "9colvOVjJCY7Tkn7bWWxKQ"
+              }
+            },
+            {
+              "frame": 0.21666666666666667,
+              "value": {
+                "__uuid__": "07/Fyc6qxDpKRq7esq2hCs"
+              }
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": {
+                "__uuid__": "ddPkOCgmpE1YR5jTcZ+6BM"
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0000(ch_爱给网_aigei_com",
+      "texture": "ad1yQL6VNOuK5MBxVXcMzm",
+      "rect": [
+        9,
+        17,
+        211,
+        199
+      ],
+      "offset": [
+        4.5,
+        -6.5
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0007(ch_爱给网_aigei_com",
+      "texture": "47N0AWTZtNxqUlssGP/hMy",
+      "rect": [
+        15,
+        24,
+        191,
+        177
+      ],
+      "offset": [
+        0.5,
+        -2.5
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0009(ch_爱给网_aigei_com",
+      "texture": "70nzFapaBHd67f9PqIymbq",
+      "rect": [
+        22,
+        16,
+        182,
+        197
+      ],
+      "offset": [
+        3,
+        -4.5
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0011(ch_爱给网_aigei_com",
+      "texture": "2bp1Yui4lP6JaVKBNSAR7M",
+      "rect": [
+        9,
+        21,
+        202,
+        188
+      ],
+      "offset": [
+        0,
+        -5
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0010(ch_爱给网_aigei_com",
+      "texture": "699Jp7C6tLqrlAqa1U8gWs",
+      "rect": [
+        14,
+        20,
+        197,
+        197
+      ],
+      "offset": [
+        2.5,
+        -8.5
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0001(ch_爱给网_aigei_com",
+      "texture": "dfWrmKdnBBrZe1OX2MPAgX",
+      "rect": [
+        16,
+        6,
+        198,
+        210
+      ],
+      "offset": [
+        5,
+        -1
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0004(ch_爱给网_aigei_com",
+      "texture": "b8S0cGWVNF+LrT5oUzFZx2",
+      "rect": [
+        7,
+        18,
+        202,
+        188
+      ],
+      "offset": [
+        -2,
+        -2
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0006(ch_爱给网_aigei_com",
+      "texture": "5acFAdJPRBHYZW4I2fQS/w",
+      "rect": [
+        20,
+        14,
+        186,
+        194
+      ],
+      "offset": [
+        3,
+        -1
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0008(ch_爱给网_aigei_com",
+      "texture": "f3GcYqY/BBJrV7VA9W1ujp",
+      "rect": [
+        19,
+        21,
+        192,
+        188
+      ],
+      "offset": [
+        5,
+        -5
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0005(ch_爱给网_aigei_com",
+      "texture": "80L2OjbOxPYYrqx0u9GONb",
+      "rect": [
+        16,
+        18,
+        185,
+        198
+      ],
+      "offset": [
+        -1.5,
+        -7
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0003(ch_爱给网_aigei_com",
+      "texture": "d1BTiqOIREBa96tVZwZiTW",
+      "rect": [
+        13,
+        23,
+        204,
+        191
+      ],
+      "offset": [
+        5,
+        -8.5
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0013(ch_爱给网_aigei_com",
+      "texture": "7fz2Tvpx5Fb7CH+sPmCUi7",
+      "rect": [
+        15,
+        8,
+        194,
+        206
+      ],
+      "offset": [
+        2,
+        -1
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0002(ch_爱给网_aigei_com",
+      "texture": "1b06/80WpIsZwOKA+VZwQw",
+      "rect": [
+        13,
+        15,
+        193,
+        205
+      ],
+      "offset": [
+        -0.5,
+        -7.5
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

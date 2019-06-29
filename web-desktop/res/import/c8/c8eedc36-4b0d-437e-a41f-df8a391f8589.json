@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "腾讯战争养成游戏《城堡争霸》UI 音效-Castle Cla_爱给网_aigei_com",
+    "texture": "7aTn0xPKxDNYV2OyV2IKug",
+    "rect": [
+      1,
+      2,
+      352,
+      516
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      354,
+      519
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

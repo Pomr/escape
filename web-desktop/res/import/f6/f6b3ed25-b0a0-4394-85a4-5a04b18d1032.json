@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BanGye_38 副本",
+    "texture": "62Ba/VKcVC0Llvix3OgfO6",
+    "rect": [
+      13,
+      14,
+      55,
+      61
+    ],
+    "offset": [
+      0.5,
+      -4.5
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

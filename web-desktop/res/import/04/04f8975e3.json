@@ -1,0 +1,64 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "TransferRoll_box",
+      "texture": "1fvvM1ZsxK5q2SRovcTFVX",
+      "rect": [
+        0,
+        0,
+        337,
+        391
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        337,
+        391
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "letter",
+    "_duration": 0.5166666666666667,
+    "curveData": {
+      "props": {
+        "opacity": [
+          {
+            "frame": 0,
+            "value": 0
+          },
+          {
+            "frame": 0.5,
+            "value": 200
+          },
+          {
+            "frame": 0.5166666666666667,
+            "value": 230
+          }
+        ]
+      },
+      "comps": {
+        "cc.Sprite": {
+          "spriteFrame": [
+            {
+              "frame": 0,
+              "value": {
+                "__uuid__": "93lFA9V3NJPb0ozsvWn0b9"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+]

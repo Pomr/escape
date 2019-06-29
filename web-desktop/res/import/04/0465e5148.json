@@ -1,0 +1,94 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "switch",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "switch",
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "f55ukUyQtE9ZS9HWmXBzU8"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.BoxCollider",
+          "node": {
+            "__id__": 1
+          },
+          "tag": 2,
+          "_size": {
+            "__type__": "cc.Size",
+            "width": 35,
+            "height": 50
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "29JmqG48tDYoshvXf52Zpz"
+        },
+        "fileId": "b1Ub/oboBHFbsAdnIKoEum"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 35,
+        "height": 50
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -622,
+        "y": -67
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": -1,
+        "y": 1,
+        "z": 1
+      },
+      "groupIndex": 3
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "close",
+      "texture": "5a8VLrSCZDy6qW1rn2AKI5",
+      "rect": [
+        0,
+        0,
+        28,
+        23
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        28,
+        23
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

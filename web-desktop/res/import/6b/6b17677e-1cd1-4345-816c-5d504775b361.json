@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "各种可爱的怪物精灵角色序列帧动画素材-BanGye_39 副_爱给网_aigei_com",
+    "texture": "18BHdw/XJCs5P92xVpIAVZ",
+    "rect": [
+      13,
+      14,
+      55,
+      61
+    ],
+    "offset": [
+      0.5,
+      -4.5
+    ],
+    "originalSize": [
+      80,
+      80
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

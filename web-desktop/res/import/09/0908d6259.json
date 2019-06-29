@@ -1,0 +1,109 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0000(ch_爱给网_aigei_com",
+      "texture": "ad1yQL6VNOuK5MBxVXcMzm",
+      "rect": [
+        9,
+        17,
+        211,
+        199
+      ],
+      "offset": [
+        4.5,
+        -6.5
+      ],
+      "originalSize": [
+        220,
+        220
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "jumpMatrixDown",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jumpMatrixDown",
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "44GhSsWxNDn4rpZpXIv2ab"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_defaultClip": {
+            "__uuid__": "1b15V2Uf1A2bjJzlpcdgT4"
+          },
+          "_clips": [
+            {
+              "__uuid__": "1b15V2Uf1A2bjJzlpcdgT4"
+            }
+          ],
+          "playOnLoad": true
+        },
+        {
+          "__type__": "cc.BoxCollider",
+          "node": {
+            "__id__": 1
+          },
+          "tag": 33,
+          "_size": {
+            "__type__": "cc.Size",
+            "width": 40,
+            "height": 100
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "53LiHZKYJI7raatbjzO3bc"
+        },
+        "fileId": "998e5J6X5JwahdUFY+fprs"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 120,
+        "height": 120
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 430.6,
+        "y": -165
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "groupIndex": 4
+    }
+  ]
+]

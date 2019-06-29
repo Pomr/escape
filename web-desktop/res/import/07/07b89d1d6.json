@@ -1,0 +1,119 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "jumpDoor",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "jump_door3",
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 1
+          },
+          "_spriteFrame": {
+            "__uuid__": "8803MFOJhPNIHUxjgXxjmu"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.BoxCollider",
+          "node": {
+            "__id__": 1
+          },
+          "tag": 23,
+          "_size": {
+            "__type__": "cc.Size",
+            "width": 50,
+            "height": 140
+          }
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 1
+          },
+          "_alignFlags": 44,
+          "_left": 420,
+          "_right": 760,
+          "_bottom": 65,
+          "_originalWidth": 100
+        },
+        {
+          "__type__": "cc.Animation",
+          "node": {
+            "__id__": 1
+          },
+          "_defaultClip": {
+            "__uuid__": "c6cofEi8JAAK6VStsiqgkZ"
+          },
+          "_clips": [
+            {
+              "__uuid__": "c6cofEi8JAAK6VStsiqgkZ"
+            }
+          ]
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "7fkKwdXbBHqb77AA8snQes"
+        },
+        "fileId": "b25ehfOQxB55KmtlFbwBi1"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 100,
+        "height": 140
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 470,
+        "y": 135
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "groupIndex": 4
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "腾讯战争养成游戏《城堡争霸》UI 音效-Castle Cla_爱给网_aigei_com (3)",
+      "texture": "d4ByQ345VDjJ+16oqfy2Rm",
+      "rect": [
+        1,
+        0,
+        352,
+        517
+      ],
+      "offset": [
+        0,
+        1
+      ],
+      "originalSize": [
+        354,
+        519
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

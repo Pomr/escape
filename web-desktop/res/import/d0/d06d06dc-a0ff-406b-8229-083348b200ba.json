@@ -1,0 +1,65 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "keySheep",
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "keySheep",
+    "_level": 2,
+    "_components": [
+      {
+        "__type__": "cc.Sprite",
+        "node": {
+          "__id__": 1
+        },
+        "_spriteFrame": {
+          "__uuid__": "b1N1lqgxFJGZnQFpX8P0wZ"
+        },
+        "_sizeMode": 0
+      },
+      {
+        "__type__": "cc.BoxCollider",
+        "node": {
+          "__id__": 1
+        },
+        "tag": 12,
+        "_size": {
+          "__type__": "cc.Size",
+          "width": 50,
+          "height": 40
+        }
+      }
+    ],
+    "_prefab": {
+      "__type__": "cc.PrefabInfo",
+      "root": {
+        "__id__": 1
+      },
+      "asset": {
+        "__id__": 0
+      },
+      "fileId": "3c+zSsmGlOjKxDdr08dWou"
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 50,
+      "height": 40
+    },
+    "_position": {
+      "__type__": "cc.Vec3",
+      "x": -177,
+      "y": -264
+    },
+    "_scale": {
+      "__type__": "cc.Vec3",
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "groupIndex": 2
+  }
+]

@@ -1,0 +1,201 @@
+[
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "door",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "doorSheep",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        }
+      ],
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Mask",
+          "node": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "68wvmfoRFJvb3tDs/gtKLF"
+        },
+        "fileId": "587Ca/2xZHZqGeRYTosJ5p"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 30,
+        "height": 120
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 840,
+        "y": 393
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1.64,
+        "z": 1
+      },
+      "groupIndex": 1
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "door",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "8fmAnoKcxJNIeOe5j/nQ69"
+          },
+          "_sizeMode": 0
+        },
+        {
+          "__type__": "cc.RigidBody",
+          "node": {
+            "__id__": 2
+          },
+          "_type": 0,
+          "enabledContactListener": true
+        },
+        {
+          "__type__": "cc.PhysicsBoxCollider",
+          "node": {
+            "__id__": 2
+          },
+          "_size": {
+            "__type__": "cc.Size",
+            "width": 30,
+            "height": 120
+          }
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 2
+          },
+          "_alignFlags": 45,
+          "_originalWidth": 30,
+          "_originalHeight": 120
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "68wvmfoRFJvb3tDs/gtKLF"
+        },
+        "fileId": "2aRGE3pHdJCIQtOIgScwsd"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 30,
+        "height": 120
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "groupIndex": 1
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "animal",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 4,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "b1N1lqgxFJGZnQFpX8P0wZ"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "68wvmfoRFJvb3tDs/gtKLF"
+        },
+        "fileId": "838QSWIAhO4qwfpfowjsuK"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 25,
+        "height": 12
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "y": 37
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "door",
+      "texture": "a79PO+i8ZGMZ+FKYNQ8CyE",
+      "rect": [
+        0,
+        0,
+        29,
+        94
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        29,
+        94
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+]

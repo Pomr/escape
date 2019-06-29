@@ -1,0 +1,27 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "宠物对战手游《嗨皮精灵》全套美术素材-传送门_0014(ch_爱给网_aigei_com",
+    "texture": "82msdVPWNDPaGDFdUy1OVA",
+    "rect": [
+      3,
+      10,
+      211,
+      202
+    ],
+    "offset": [
+      -1.5,
+      -1
+    ],
+    "originalSize": [
+      220,
+      220
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

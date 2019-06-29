@@ -1,0 +1,218 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "flower",
+      "texture": "25xqx6sdNAT75q1V9x8rNy",
+      "rect": [
+        2,
+        0,
+        73,
+        75
+      ],
+      "offset": [
+        1,
+        0
+      ],
+      "originalSize": [
+        75,
+        75
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "flower",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "flower",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        }
+      ],
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.RigidBody",
+          "node": {
+            "__id__": 1
+          },
+          "_type": 0
+        },
+        {
+          "__type__": "cc.PhysicsBoxCollider",
+          "node": {
+            "__id__": 1
+          },
+          "_size": {
+            "__type__": "cc.Size",
+            "width": 156,
+            "height": 75
+          }
+        },
+        {
+          "__type__": "cc.Widget",
+          "node": {
+            "__id__": 1
+          },
+          "_alignFlags": 42,
+          "_left": 184,
+          "_right": 940,
+          "_top": 315.3,
+          "_bottom": 329.7,
+          "_verticalCenter": 0.009722222222222222,
+          "_isAbsVerticalCenter": false,
+          "_originalWidth": 156,
+          "_originalHeight": 75
+        },
+        {
+          "__type__": "cc.BoxCollider",
+          "node": {
+            "__id__": 1
+          },
+          "_offset": {
+            "__type__": "cc.Vec2",
+            "y": 5
+          },
+          "_size": {
+            "__type__": "cc.Size",
+            "width": 156,
+            "height": 80
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "84oGsYUIJFs7TVC6drQlvL"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 156,
+        "height": 75
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -378,
+        "y": 7
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "groupIndex": 8
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "flower1",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "7aw4mQyt9MoZUJ/y6FBq8B"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "21RK79fQNJcazTZ9fA325o"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 78,
+        "height": 75
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -39.2
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "flower2",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "7aw4mQyt9MoZUJ/y6FBq8B"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__id__": 0
+        },
+        "fileId": "02kGu3+RxH7KWgstl8RuyW"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 78,
+        "height": 75
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": 38.2
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ]
+]

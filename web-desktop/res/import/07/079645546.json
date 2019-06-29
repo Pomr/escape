@@ -1,0 +1,200 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "《我是掼蛋王》游戏素材-背包网格(backpack_grid_爱给网_aigei_com",
+      "texture": "80VLtYmn1IxKe2aWWDnC1O",
+      "rect": [
+        0,
+        0,
+        136,
+        136
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        136,
+        136
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "gemstone",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "gemstone_one",
+      "_children": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        }
+      ],
+      "_level": 1,
+      "_components": [
+        {
+          "__type__": "cc.Button",
+          "node": {
+            "__id__": 1
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a75fiwJA1LjIUyuXvPbYED"
+        },
+        "fileId": "92fTAiHyREtpfLDGkbJZXH"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 80,
+        "height": 80
+      },
+      "_position": {
+        "__type__": "cc.Vec3",
+        "x": -200,
+        "y": 200
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "back",
+      "_parent": {
+        "__id__": 1
+      },
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 2
+          },
+          "_spriteFrame": {
+            "__uuid__": "57lbTANF9Iz7gNFvtCVv0z"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a75fiwJA1LjIUyuXvPbYED"
+        },
+        "fileId": "7cxdZgBfNKiKEUsUK0m4K8"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 80,
+        "height": 80
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "gemstone",
+      "_parent": {
+        "__id__": 1
+      },
+      "_active": false,
+      "_level": 2,
+      "_components": [
+        {
+          "__type__": "cc.Sprite",
+          "node": {
+            "__id__": 3
+          },
+          "_spriteFrame": {
+            "__uuid__": "bdkJMxZWBFNY3SZlji1cRl"
+          },
+          "_sizeMode": 0
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "a75fiwJA1LjIUyuXvPbYED"
+        },
+        "fileId": "87FzzNYGNBUbygSfw/nMzO"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 75,
+        "height": 75
+      },
+      "_scale": {
+        "__type__": "cc.Vec3",
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "gemstone",
+      "texture": "51N51WlvdM6YImt0m09yR2",
+      "rect": [
+        0,
+        0,
+        988,
+        798
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        988,
+        798
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "__type__": "cc.TTFFont",
+    "_name": "font",
+    "_native": "font.ttf"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "zhangaiExit",
+  "_duration": 0.6666666666666666,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.6666666666666666,
+          "value": {
+            "__type__": "cc.Vec2"
+          }
+        }
+      ]
+    }
+  }
+}
